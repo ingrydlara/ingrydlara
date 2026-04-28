@@ -19,10 +19,10 @@ Here you'll find practical projects involving **Machine Learning**, **Deep Learn
 I'm a professional focused on **Artificial Intelligence**, **automation**, and **applied technology**.  
 I'm interested in creating intelligent, scalable solutions with real impact.
 
-- 🌍 **Location:** United States / International
+- 🌍 **Location:** São Paulo, Brazil
 - 🧠 **Focus:** Applied AI, automation, data, and digital products
 - 📈 **Interest:** Real projects, research, and innovation
-- 🌐 **Languages:** English | Spanish
+- 🌐 **Languages:** English | Spanish | Portuguese
 
 ---
 
