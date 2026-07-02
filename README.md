@@ -8,13 +8,13 @@
 
 ---
 
-## 🎯 Welcome to my Artificial Intelligence professional portfolio
+## Welcome to my Artificial Intelligence professional portfolio
 
 Here you'll find practical projects involving **Machine Learning**, **Deep Learning**, **NLP**, **Computer Vision**, and **Generative AI**.
 
 ---
 
-## 🚀 About me
+## About me
 
 I'm a professional focused on **Artificial Intelligence**, **automation**, and **applied technology**.  
 I'm interested in creating intelligent, scalable solutions with real impact.
@@ -48,7 +48,7 @@ I'm interested in creating intelligent, scalable solutions with real impact.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   
@@ -60,7 +60,7 @@ I'm interested in creating intelligent, scalable solutions with real impact.
 
 ---
 
-## 🌱 Currently exploring
+## Currently exploring
 
 - 🤖 AI agents and autonomous systems
 - 🔬 LLM fine-tuning
