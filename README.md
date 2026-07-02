@@ -16,7 +16,7 @@ Here you'll find practical projects involving **Machine Learning**, **Deep Learn
 
 ## About me
 
-I'm a professional focused on **Artificial Intelligence**, **automation**, and **applied technology**.  
+I'm a student focused on Artificial Intelligence, automation, and applied technology. 
 I'm interested in creating intelligent, scalable solutions with real impact.
 
 - 🌍 **Location:** São Paulo, Brazil
