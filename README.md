@@ -79,12 +79,3 @@ I'm interested in creating intelligent, scalable solutions with real impact.
 [![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](SEU_PORTFOLIO)
 
 </div>
-
----
-
-<div align="center">
-  
-### 💡 "AI is the new electricity." — Andrew Ng
-<img width="2000" height="1333" alt="image" src="https://github.com/user-attachments/assets/38082fb4-b3ce-4ccc-a1b2-4f514f339f32" />
-
-</div>
