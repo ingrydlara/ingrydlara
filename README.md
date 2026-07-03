@@ -22,7 +22,7 @@ I'm interested in creating intelligent, scalable solutions with real impact.
 - 🌍 **Location:** São Paulo, Brazil
 - 🧠 **Focus:** Applied AI, automation, data, and digital products
 - 📈 **Interest:** Real projects, research, and innovation
-- 🌐 **Languages:** English | Spanish | Portuguese
+- 🌐 **Languages:** English | Portuguese
 
 ---
 
